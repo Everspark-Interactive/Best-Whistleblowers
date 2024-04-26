@@ -612,3 +612,7 @@ li {
   vertical-align: baseline;
   background: transparent;
 }
+
+.test {
+  color: red; 
+}
